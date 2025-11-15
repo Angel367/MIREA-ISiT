@@ -8,5 +8,5 @@
 
 Решение задание лежит по веткам:
 ```bash
-git checkout -b prac1
+git checkout prac1
 ```
