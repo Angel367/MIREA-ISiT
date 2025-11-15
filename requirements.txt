@@ -1,0 +1,6 @@
+openai
+anthropic
+python-dotenv
+pandas
+scikit-learn
+pillow
